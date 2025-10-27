@@ -6,7 +6,7 @@ This is a project from British Airways' job simulation on Forage.
 
 The first task was to scrape and collect customer feedback from a third-party source and analyse the data to uncover insights. The Beautiful Soup library was used to scrape reviews for British Airways from airlinequality.com.
 
-![Web scraping](BA Web Scrape 2.png)
+![Web scraping]('BA Web Scrape 2.png')
 
 A CSV file containing 1000 reviews was obtained.
 
